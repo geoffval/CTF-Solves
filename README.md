@@ -1,2 +1,2 @@
 # CTF-Solves
-Personal Repository for CTF Writeups
+Personal Repository for CTF Notes/Writeups
